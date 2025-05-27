@@ -77,7 +77,7 @@ Improve data presentation using third-party packages
 Gracefully handle user errors
 
 👨‍💻 Author
-Project for CS50’s Introduction to Computer Science
+Project for CS50’s Introduction to Python programming
 by [SHRIYA DHAWAN]
 
 📄 License
